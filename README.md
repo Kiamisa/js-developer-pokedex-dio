@@ -1,8 +1,6 @@
-
-```markdown
 # Pokémon Listing
 
-This is a simple Pokémon listing app created using **JavaScript**, **CSS**, and **HTML**. The app displays a list of Pokémon with their images, names, and types. Users can browse through a selection of Pokémon fetched from an API or stored locally.
+This is a simple Pokémon listing app created using JavaScript, CSS, and HTML. The app displays a list of Pokémon with their images, names, and types. Users can browse through a selection of Pokémon fetched from an API or stored locally.
 
 ## Features
 
@@ -11,9 +9,6 @@ This is a simple Pokémon listing app created using **JavaScript**, **CSS**, and
 - Responsive design for different screen sizes.
 - Fetch Pokémon data from the [PokéAPI](https://pokeapi.co/) or use a local JSON file.
 
-## Demo
-
-You can see a live demo of the project [here](#).
 
 ## Screenshots
 
@@ -36,17 +31,17 @@ To get a local copy of the project and run it on your machine, follow these step
 ### Installation
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/pokemon-listing.git
-    ```
+```
+    git clone https://github.com/Kiamisa/js-developer-pokedex-dio
+```
 2. Navigate to the project directory:
-    ```bash
+```
     cd pokemon-listing
-    ```
+```
 3. Open `index.html` in your browser:
-    ```bash
+```
     open index.html
-    ```
+```
 
 ## Usage
 
@@ -56,7 +51,7 @@ To get a local copy of the project and run it on your machine, follow these step
 
 ## Project Structure
 
-```bash
+```
 ├── index.html        # Main HTML file
 ├── style.css         # Stylesheet for the project
 ├── app.js            # Main JavaScript file for fetching and displaying Pokémon
@@ -85,13 +80,3 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [PokéAPI](https://pokeapi.co/) for providing the Pokémon data.
-- Inspiration from various Pokémon fan websites.
-```
